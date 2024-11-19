@@ -9,6 +9,9 @@
   ⚡ Fun fact: <strong>I used to work with Illustrator and After Effects to create many short Motion Graphics videos.</strong>
 </p>
 
+<p>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z1czd4eHg3dzA4cGY3Nmh2ZThldTBzcWt3bGFxd2J4ODRvcTRyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.webp" alt="Giflytics GIF" width="500" height="400" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/marwanabdellah_" target="blank">
@@ -18,6 +21,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-abdellah" height="30" width="40" />
   </a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
