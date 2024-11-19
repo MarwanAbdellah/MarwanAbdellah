@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Marwan</h1>
 <h3 align="center">A passionate Data Analyst and AI Enthusiast From Egypt</h3>
 
-<p>
-  <img align="right" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Giflytics GIF" width="400" />
-</p>
-
 <p align="left">
   🌱 I’m currently learning <strong>More about AI, Deep Learning, Reinforcement Learning, Etc...</strong><br>
   📫 How to reach me: <strong>marawan.abdellah0@gmail.com</strong><br>
