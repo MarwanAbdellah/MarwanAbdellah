@@ -1,8 +1,8 @@
-# Hi, I'm Marwan 👋
+<h1 align="center">Hi, I'm Marwan 👋</h1>
 
-**AI Engineer & Data Scientist** building agentic RAG systems, computer-vision pipelines, and MLOps workflows.
+<p align="center"><strong>AI Engineer &amp; Data Scientist</strong> building agentic RAG systems, computer-vision pipelines, and MLOps workflows.</p>
 
-I'm based in Egypt and passionate about applied AI — from multi-agent LLM systems to production-ready ML serving.
+<p align="center">I'm based in Egypt and passionate about applied AI — from multi-agent LLM systems to production-ready ML serving.</p>
 
 ## About
 
@@ -53,7 +53,7 @@ I'm based in Egypt and passionate about applied AI — from multi-agent LLM syst
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=marwanabdellah&theme=github-dark" alt="GitHub Streak" />
