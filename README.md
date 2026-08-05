@@ -91,7 +91,5 @@
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwanabdellah&show_icons=true&locale=en&layout=compact" alt="marwanabdellah" />
-  &nbsp;&nbsp;
   <img align="center" src="https://streak-stats.demolab.com/?user=marwanabdellah" alt="marwanabdellah" />
 </p>
