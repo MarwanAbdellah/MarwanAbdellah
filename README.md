@@ -23,28 +23,6 @@
   </a>
 </p>
 
-<h3 align="left">🚀 Featured Projects:</h3>
-
-<p align="left">
-  <strong>🧠 ArabMedRAG</strong> — Production Arabic medical chatbot powered by a 6-agent CrewAI pipeline, hybrid RAG (FAISS + BM25), grounded on 341,476 Arabic medical Q&A pairs, with Streamlit, FastAPI, and Telegram interfaces.<br>
-  <a href="https://github.com/MarwanAbdellah/ArabMedRAG">github.com/MarwanAbdellah/ArabMedRAG</a>
-</p>
-
-<p align="left">
-  <strong>⚙️ MLOps-Pipeline-for-Tabular-Classification</strong> — End-to-end MLOps pipeline training a PyTorch DNN on tabular data, exporting to ONNX, serving via FastAPI in Docker, with GitHub Actions CI/CD.<br>
-  <a href="https://github.com/MarwanAbdellah/MLOps-Pipeline-for-Tabular-Classification">github.com/MarwanAbdellah/MLOps-Pipeline-for-Tabular-Classification</a>
-</p>
-
-<p align="left">
-  <strong>🔬 surface-crack-classification</strong> — Multi-architecture neural network comparison (FFNN, LSTM-RNN, CNN, ResNet18) for surface crack detection on ~228k grayscale images, with Optuna hyperparameter search.<br>
-  <a href="https://github.com/MarwanAbdellah/surface-crack-classification">github.com/MarwanAbdellah/surface-crack-classification</a>
-</p>
-
-<p align="left">
-  <strong>📊 Udemy-Finance-Accounting-Course-Analysis</strong> — EDA and cleaning of 13,000+ Udemy finance courses, loaded into MySQL, and visualized through a Tableau dashboard.<br>
-  <a href="https://github.com/MarwanAbdellah/Udemy-Finance-Accounting-Course-Analysis">github.com/MarwanAbdellah/Udemy-Finance-Accounting-Course-Analysis</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
