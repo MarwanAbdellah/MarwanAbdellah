@@ -55,4 +55,6 @@ I'm based in Egypt and passionate about applied AI — from multi-agent LLM syst
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=marwanabdellah&theme=github-dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=marwanabdellah&theme=github-dark" alt="GitHub Streak" />
+</p>
