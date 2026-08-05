@@ -90,6 +90,6 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=marwanabdellah" alt="marwanabdellah" />
 </p>
