@@ -4,6 +4,10 @@
 
 <p align="center">I'm based in Egypt and passionate about applied AI — from multi-agent LLM systems to production-ready ML serving.</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z1czd4eHg3dzA4cGY3Nmh2ZThldTBzcWt3bGFxd2J4ODRvcTRyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.webp" alt="Giflytics GIF" width="400" />
+</p>
+
 ## About
 
 - 🧠 Building **multi-agent CrewAI systems, RAG pipelines, and realtime voice AI agents**
