@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" alt="Animated banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Marwan 👋</h1>
 
 <p align="center"><strong>AI Engineer &amp; Data Scientist</strong> building agentic RAG systems, computer-vision pipelines, and MLOps workflows.</p>
